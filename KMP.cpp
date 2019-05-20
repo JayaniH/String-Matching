@@ -40,7 +40,6 @@ void KMP::calculateLPS(){
 		}
 	}
 }
-
 void KMP::match(){
 	
 	int j = 0,count = 0;
